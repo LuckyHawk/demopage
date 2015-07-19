@@ -15,7 +15,8 @@ a{color:#1f3b7b;text-decoration:none;}
 a:visited{color:#6079b2;}
 a:hover,a:active,a:focus{color:#8d0000;text-decoration:underline;}
 
-body{background: url(../homeimages/back.jpg);}
+body{}
+#yunyang{background: url(../homeimages/back.jpg);;}
 .move-block{
 	position: absolute;top:0;left:0;
 	width:100px;height:100px;border:1px solid #fefefe;

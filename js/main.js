@@ -50,13 +50,5 @@
 	ele.addEventListener('mousemove',mousemoveHandle,false);
 	ele.addEventListener('mouseup',mouseupHandle,false);
 
-	// var color = 0xffffff;
-	// function changeColor(){
-	// 	if(parseInt(color,16) < 0)
-	// 		clearInterval(intervalid);
-	// 	ele.style.backgroundColor = '#' + (color - ffffff).toString(16);
-	// 	color = '0x' + (color - 1).toString(16);
-		
-	// }
-	// var intervalid = setInterval(function(){changeColor()},300)
+
 })(window)
